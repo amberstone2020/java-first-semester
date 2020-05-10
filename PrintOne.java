@@ -1,10 +1,10 @@
+package firstsemester;
+
 /*
  * Amber Stone
  * Date: 08.30.19
  * Description: This program prints PSCC name and address.
  */
-package firstsemester;
-
 public class PrintOne {
 
     public static void main(String[] args) {
